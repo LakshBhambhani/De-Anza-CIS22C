@@ -1,0 +1,22 @@
+
+Menu: 
+1. Insert 
+2. Delete 
+3. Print 
+4. Exit 
+Enter Number of Option to Proceed
+What do you want to insert?
+
+Menu: 
+1. Insert 
+2. Delete 
+3. Print 
+4. Exit 
+Enter Number of Option to Proceed
+251.0, 44.55, 57.12, 48.48, 77.77, 23.44, 21.0, 68.99, 543.21, 20.21, 101.0, 11.0, 1.0, 345.67, 25.0, 151.0, 111.22, 36.18, 51.0, 87.43, 18.36, 
+Menu: 
+1. Insert 
+2. Delete 
+3. Print 
+4. Exit 
+Enter Number of Option to Proceed
